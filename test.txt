@@ -1,4 +1,8 @@
 Git is a distributed version control system.
 Git is free software root.
 boss and me 
-baobao and nine
+<<<<<<< HEAD
+baobao and guo
+=======
+baobao and guo
+>>>>>>> feature1
